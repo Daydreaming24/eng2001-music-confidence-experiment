@@ -1,0 +1,22 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller temporary build output
+build/
+src/build/
+dist/
+src/dist/
+
+# Experiment output files
+participants.csv
+round_map.csv
+trials.csv
+music_ratings.csv
+
+# OS and editor metadata
+.DS_Store
+Thumbs.db
+*:Zone.Identifier
+.idea/
